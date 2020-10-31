@@ -1,0 +1,25 @@
+{
+  "name": "@graemeboy/arweave-avatars",
+  "version": "1.0.0",
+  "description": "Allows devs to integrate Arweave avatars easily in JS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/graemecode/arweave-avatars.git"
+  },
+  "keywords": [
+    "Arweave"
+  ],
+  "author": "Graeme<graemeboy@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/graemecode/arweave-avatars/issues"
+  },
+  "homepage": "https://github.com/graemecode/arweave-avatars#readme",
+  "dependencies": {
+    "arweave": "^1.9.1"
+  }
+}
