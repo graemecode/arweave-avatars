@@ -71,7 +71,7 @@ const imageFromAddress = async (address) => {
  * Given an array, returns an array of image data.
  *
  * @example
- * await getAvatars("Ky1c1Kkt-jZ9sY1hvLF5nCf6WWdBhIU5Un_BMYh-t3c");
+ * await getAvatarsForAddress("Ky1c1Kkt-jZ9sY1hvLF5nCf6WWdBhIU5Un_BMYh-t3c");
  * => [
  *      {
  *          contentType: "image/png",
